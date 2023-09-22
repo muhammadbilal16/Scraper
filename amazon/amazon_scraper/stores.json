@@ -1,0 +1,17 @@
+[
+    {
+        "name": "rab",
+        "url": "https://rab.equipment/",
+        "title": "span.base",
+        "price": "span.price",
+        "description": "div.c-product-view__info"
+
+    },
+    {
+        "name": "fjallraven",
+        "url": "https://www.fjallraven.com/uk/en-gb/",
+        "title": "h1",
+        "price": "span.product-card--price",
+        "description": "p.description--text"
+    }
+]
